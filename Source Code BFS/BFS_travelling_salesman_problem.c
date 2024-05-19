@@ -4,7 +4,7 @@
 *Pembuat kode     : I Made Medika Surya W.M. (13222021)
 *Kelompok         : B2
 *Pemilihan soal   : Soal 2
-*Algoritma        : Algoritma BFS (Brute Force Search) untuk TSP
+*Algoritma        : Algoritma BFS (Breadth First Search) untuk TSP
 *Deskripsi        : Program ini mencari rute terpendek dengan algoritma BFS yang dimodifikasi
 *                   untuk Travelling Salesman Problem (TSP). Program ini akan memuat kota-kota
 *                   dari file eksternal, kemudian mencari rute terpendek yang mengunjungi semua
